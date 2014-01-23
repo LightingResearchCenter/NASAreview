@@ -1,10 +1,10 @@
-function [ L,x,y,CLA,CS ] = CS1ft
-%CS1FT Summary of this function goes here
+function [ L,x,y,CLA,CS ] = CS1ftXLSX
+%CS1FTXLSX Summary of this function goes here
 %   Detailed explanation goes here
 
 addpath('CS_CLA_postBerlinCorrMelanopsin_02Oct2012');
 
-spd = importSPD1ft;
+spd = importXLSX;
 
 samples = numel(spd);
 

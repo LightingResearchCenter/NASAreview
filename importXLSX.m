@@ -1,4 +1,4 @@
-function spd = importSPD1ft
+function spd = importXLSX
 %IMPORTFILE Import data from a spreadsheet
 %   DATA = IMPORTFILE(FILE) reads all numeric data from the first worksheet
 %   in the Microsoft Excel spreadsheet file named FILE and returns the
